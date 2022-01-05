@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
 class PrintAnagrams{
     public List<List<String>> Anagrams(String[] string_list) {
         // Code here 
