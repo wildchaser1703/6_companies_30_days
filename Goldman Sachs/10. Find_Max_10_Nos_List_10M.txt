@@ -1,0 +1,2 @@
+Thinking Steps : 
+Make a priorityQueue (min heap) of size 10 (in general k) and iterate throught the numbers  if we find any number greater then the head of the priorityQueue then delete the head and insert the number to the priorityQueue.
